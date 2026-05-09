@@ -448,10 +448,3 @@ For questions about this implementation, refer to:
 
 ---
 
-## License
-
-This is an assignment submission. All rights reserved.
-
----
-
-**Submission Ready:** All requirements met, all scenarios pass, latency budget satisfied.
