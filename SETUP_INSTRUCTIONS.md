@@ -152,5 +152,3 @@ Statistics:
 5. **reset_detector.py** - Implementation
 
 ---
-
-**Evaluation time: ~10 minutes**
